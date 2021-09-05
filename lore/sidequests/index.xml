@@ -1,4 +1,38 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Side Quests on MountHearth</title><link>https://metalblueberry.github.io/MountHearth/lore/sidequests/</link><description>Recent content in Side Quests on MountHearth</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Victor Perez</copyright><atom:link href="https://metalblueberry.github.io/MountHearth/lore/sidequests/index.xml" rel="self" type="application/rss+xml"/><item><title>Intro</title><link>https://metalblueberry.github.io/MountHearth/lore/intro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/MountHearth/lore/intro/</guid><description>&lt;h1 id="this-should-not-be-read-by-players">This should not be read by players!&lt;/h1>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Side Quests on MountHearth</title><link>https://metalblueberry.github.io/MountHearth/lore/sidequests/</link><description>Recent content in Side Quests on MountHearth</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Victor Perez</copyright><atom:link href="https://metalblueberry.github.io/MountHearth/lore/sidequests/index.xml" rel="self" type="application/rss+xml"/><item><title>Anakin</title><link>https://metalblueberry.github.io/MountHearth/lore/sidequests/anakin/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/MountHearth/lore/sidequests/anakin/</guid><description>
+&lt;div style="display: flex">
+&lt;div style="flex-grow:1">
+&lt;div>CHA&lt;/div>
+&lt;div>2&lt;/div>
+&lt;div>15&lt;/div>
+&lt;/div>
+&lt;div style="flex-grow:1">
+&lt;div>CON&lt;/div>
+&lt;div>2&lt;/div>
+&lt;div>14&lt;/div>
+&lt;/div>
+&lt;div style="flex-grow:1">
+&lt;div>DEX&lt;/div>
+&lt;div>0&lt;/div>
+&lt;div>11&lt;/div>
+&lt;/div>
+&lt;div style="flex-grow:1">
+&lt;div>INT&lt;/div>
+&lt;div>0&lt;/div>
+&lt;div>11&lt;/div>
+&lt;/div>
+&lt;div style="flex-grow:1">
+&lt;div>STR&lt;/div>
+&lt;div>3&lt;/div>
+&lt;div>16&lt;/div>
+&lt;/div>
+&lt;div style="flex-grow:1">
+&lt;div>WIS&lt;/div>
+&lt;div>0&lt;/div>
+&lt;div>11&lt;/div>
+&lt;/div>
+&lt;/div>
+&lt;p>&lt;a href="https://www.improved-initiative.com/e/">https://www.improved-initiative.com/e/&lt;/a>&lt;/p>
+&lt;p>Anakin is a knignt for the order of &lt;strong>Onir&lt;/strong>. He is looking for a half giant that has been seen on this lands. The plan is to kill it to remove the amenace.&lt;/p></description></item><item><title>Intro</title><link>https://metalblueberry.github.io/MountHearth/lore/intro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/MountHearth/lore/intro/</guid><description>&lt;h1 id="this-should-not-be-read-by-players">This should not be read by players!&lt;/h1>
 &lt;!--more -->
 &lt;h2 id="the-office">The office&lt;/h2>
 &lt;p>Sara. as the escape room receptionist, leads the players into a room that looks like an office. A desk is in the middle with a wooden chair. the are 4 lock drawers. On the table there is a book, ink and quill and candles.
@@ -29,7 +63,7 @@ Event, one of the doors is open and contains similar items&lt;/p>
 &lt;/blockquote>
 &lt;h2 id="exterior">Exterior&lt;/h2>
 &lt;p>On the jail is carved into a wall of a stone mountain and the only exit is the door in the corridor.&lt;/p>
-&lt;p>There is a barn with 4 horses and a carriage prepared to transport up to 6 prisoners.&lt;/p></description></item><item><title>Sound</title><link>https://metalblueberry.github.io/MountHearth/lore/sound/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/MountHearth/lore/sound/</guid><description>&lt;p>Sound effects for the game&lt;/p>
+&lt;p>There is a barn with 4 horses and a carriage prepared to transport up to 6 prisoners.&lt;/p></description></item><item><title>Onir</title><link>https://metalblueberry.github.io/MountHearth/lore/onir/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/MountHearth/lore/onir/</guid><description>&lt;p>Onir is the god of justice. His knights are famous for being helpful and watching for the people in the Alzian republic. The prince has been using his influence in his favour making people believe that other species are dangerous.&lt;/p></description></item><item><title>Sound</title><link>https://metalblueberry.github.io/MountHearth/lore/sound/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/MountHearth/lore/sound/</guid><description>&lt;p>Sound effects for the game&lt;/p>
 &lt;!-- more-->
 &lt;h2 id="base-ambient">Base Ambient&lt;/h2>
 &lt;p>&lt;iframe width="100%"
@@ -100,11 +134,11 @@ rain
 src="https://www.youtube.com/embed/q76bMs-NwRk"
 frameborder="0"
 allow="clipboard-write; encrypted-media"
->&lt;/iframe>&lt;/p></description></item><item><title>Temperate deciduous forest</title><link>https://metalblueberry.github.io/MountHearth/locations/temperate_deciduous_forest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/MountHearth/locations/temperate_deciduous_forest/</guid><description>&lt;p>&lt;p class="md__image">
+>&lt;/iframe>&lt;/p></description></item><item><title>Temperate deciduous forest</title><link>https://metalblueberry.github.io/MountHearth/lore/locations/temperate_deciduous_forest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/MountHearth/lore/locations/temperate_deciduous_forest/</guid><description>&lt;p>&lt;p class="md__image">
 &lt;a href="fauna.jpg">
 &lt;img src="fauna.jpg" alt="fauna" />
 &lt;/a>
-&lt;/p>&lt;/p></description></item><item><title>Temperate rainforest</title><link>https://metalblueberry.github.io/MountHearth/locations/temperate_rainforest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/MountHearth/locations/temperate_rainforest/</guid><description>&lt;p>&lt;p class="md__image">
+&lt;/p>&lt;/p></description></item><item><title>Temperate rainforest</title><link>https://metalblueberry.github.io/MountHearth/lore/locations/temperate_rainforest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/MountHearth/lore/locations/temperate_rainforest/</guid><description>&lt;p>&lt;p class="md__image">
 &lt;a href="fauna.png">
 &lt;img src="fauna.png" alt="fauna" />
 &lt;/a>
