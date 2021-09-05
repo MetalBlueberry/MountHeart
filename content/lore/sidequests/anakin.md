@@ -1,5 +1,5 @@
 ---
-title: Side Quests
+title: Anakin
 categories: []
 imgs: [""]
 cover: ""  # image show on top
@@ -12,6 +12,17 @@ license: ""  # CC License
 draft: false
 ---
 
-Monsters 
+{{< stats >}}
+stats:
+    str: 16
+    dex: 11
+    con: 14
+    int: 11
+    wis: 11
+    cha: 15
+ca: 
+    value: 18
+    kind: plate
+{{< /stats >}}
 
-https://online.anyflip.com/duex/ixpz/mobile/index.html#p=43
+https://www.improved-initiative.com/e/

@@ -1,0 +1,10 @@
+{{ $data := .Inner | transform.Unmarshal }}
+<div style="display: flex">
+{{ range  $k, $v := $data.stats}}
+<div style="flex-grow:1">
+    <div>{{ $k | upper }}</div>
+    <div>{{ div (sub $v 10) 2 }}</div>
+    <div>{{ $v }}</div>
+</div>
+{{ end }}
+</div>
