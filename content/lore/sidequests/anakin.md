@@ -26,3 +26,6 @@ ca:
 {{< /stats >}}
 
 https://www.improved-initiative.com/e/
+
+
+Anakin is a knignt for the order of **Onir**. He is looking for a half giant that has been seen on this lands. The plan is to kill it to remove the amenace. 
