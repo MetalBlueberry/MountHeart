@@ -116,9 +116,15 @@ src="https://www.youtube.com/embed/btmjDyff6E8"
 frameborder="0"
 allow="clipboard-write; encrypted-media"
 >&lt;/iframe>
-forrest
+forest
 &lt;iframe width="100%"
 src="https://www.youtube.com/embed/xNN7iTA57jM"
+frameborder="0"
+allow="clipboard-write; encrypted-media"
+>&lt;/iframe>
+fire
+&lt;iframe width="100%"
+src="https://www.youtube.com/embed/UgHKb_7884o"
 frameborder="0"
 allow="clipboard-write; encrypted-media"
 >&lt;/iframe>&lt;/p>
@@ -134,7 +140,12 @@ rain
 src="https://www.youtube.com/embed/q76bMs-NwRk"
 frameborder="0"
 allow="clipboard-write; encrypted-media"
->&lt;/iframe>&lt;/p></description></item><item><title>Temperate deciduous forest</title><link>https://metalblueberry.github.io/MountHearth/lore/locations/temperate_deciduous_forest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/MountHearth/lore/locations/temperate_deciduous_forest/</guid><description>&lt;p>&lt;p class="md__image">
+>&lt;/iframe>&lt;/p></description></item><item><title>Taiga</title><link>https://metalblueberry.github.io/MountHearth/lore/locations/taiga/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/MountHearth/lore/locations/taiga/</guid><description>&lt;p>&lt;p class="md__image">
+&lt;a href="taiga.jpg">
+&lt;img src="taiga.jpg" alt="fauna" />
+&lt;/a>
+&lt;/p>&lt;/p>
+&lt;p>&lt;a href="https://www.bioenciclopedia.com/taiga/">https://www.bioenciclopedia.com/taiga/&lt;/a>&lt;/p></description></item><item><title>Temperate deciduous forest</title><link>https://metalblueberry.github.io/MountHearth/lore/locations/temperate_deciduous_forest/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/MountHearth/lore/locations/temperate_deciduous_forest/</guid><description>&lt;p>&lt;p class="md__image">
 &lt;a href="fauna.jpg">
 &lt;img src="fauna.jpg" alt="fauna" />
 &lt;/a>
