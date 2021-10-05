@@ -12,3 +12,6 @@ draft: false
 ---
 
 Onir is the god of justice. His knights are famous for being helpful and watching for the people in the Alzian republic. The prince has been using his influence in his favour making people believe that other species are dangerous. 
+
+
+Coronel Adrian is the one responsible of tweaking the Onir's knights behaviour.
