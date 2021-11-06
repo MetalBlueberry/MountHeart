@@ -1,6 +1,6 @@
-baseURL = "https://metalblueberry.github.io/MountHearth/"
+baseURL = "https://metalblueberry.github.io/MountHeart/"
 languageCode = "es-es"
-title = "MountHearth"
+title = "MountHeart"
 
 theme = "hugo-notepadium"
 copyright = "Game Master"
