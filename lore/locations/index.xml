@@ -1,4 +1,27 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Locations on MountHearth</title><link>https://metalblueberry.github.io/MountHearth/lore/locations/</link><description>Recent content in Locations on MountHearth</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>Victor Perez</copyright><atom:link href="https://metalblueberry.github.io/MountHearth/lore/locations/index.xml" rel="self" type="application/rss+xml"/><item><title>Anakin</title><link>https://metalblueberry.github.io/MountHearth/lore/sidequests/anakin/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/MountHearth/lore/sidequests/anakin/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Locations on MountHearth</title><link>https://metalblueberry.github.io/MountHearth/lore/locations/</link><description>Recent content in Locations on MountHearth</description><generator>Hugo -- gohugo.io</generator><language>es-es</language><copyright>Game Master</copyright><atom:link href="https://metalblueberry.github.io/MountHearth/lore/locations/index.xml" rel="self" type="application/rss+xml"/><item><title>Emergencia</title><link>https://metalblueberry.github.io/MountHearth/diario/2021-11-06/</link><pubDate>Sat, 06 Nov 2021 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/MountHearth/diario/2021-11-06/</guid><description>&lt;p>Natura y Ohmrom salvan el circo cuando Atlas pierde el control y empieza a atacar al público. Parece que no ha sino un hecho aislado y la ciudad se encuentra en estado de emergencia.&lt;/p></description></item><item><title>El circo</title><link>https://metalblueberry.github.io/MountHearth/diario/2021-10-24/</link><pubDate>Sun, 24 Oct 2021 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/MountHearth/diario/2021-10-24/</guid><description>&lt;p>Sim, Mon, Natura y Ohmrom visitan el circo Wolpertinger.&lt;/p></description></item><item><title>Abilities</title><link>https://metalblueberry.github.io/MountHearth/personajes/ohmrom/habilidades/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/MountHearth/personajes/ohmrom/habilidades/</guid><description>&lt;p>lista de habilidades&lt;/p>
+&lt;p>Blood Thirst determines the necessity of blood and affects changes in the abilities you can use. You can safely have the same number of points as your level. Blood Thirst is increased by 1 per day. If you go over your max points, Barkilara will try to drain your blood once per extra point per day. Save CD CHA. You take a Drain blood impact&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>ability&lt;/th>
+&lt;th>description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Drain blood&lt;/td>
+&lt;td>You can drink the blood of your enemies. Before an attack, you must awake Barkilara and declare the amount of blood you offer. After a successful hit, you can make extra damage equal to your Blood Thirst points and lose them. If you miss, Barkilara will try to drink your blood Save CD CHA. You can always offer at least 1 blood.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Return blood&lt;/td>
+&lt;td>You can ask Barkilara to return blood to your body. declare the amount of blood you want. Heals yourself that number of hit points CHA Persuasion 15. The Thirst is increased by this amount, This can be done as an extra action&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Alter body&lt;/td>
+&lt;td>You change the shape of your body to match other human creature if you drink their blood. It last between 30m and 1h. You don&amp;rsquo;t receive any benefits apart from the physical change. It takes 1m to transform completely. This action will reduce your blood thirst by 1 when you drink the blood.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>Anakin</title><link>https://metalblueberry.github.io/MountHearth/master/sidequests/anakin/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/MountHearth/master/sidequests/anakin/</guid><description>
 &lt;div style="display: flex">
 &lt;div style="flex-grow:1">
 &lt;div>CHA&lt;/div>
@@ -32,7 +55,7 @@
 &lt;/div>
 &lt;/div>
 &lt;p>&lt;a href="https://www.improved-initiative.com/e/">https://www.improved-initiative.com/e/&lt;/a>&lt;/p>
-&lt;p>Anakin is a knignt for the order of &lt;strong>Onir&lt;/strong>. He is looking for a half giant that has been seen on this lands. The plan is to kill it to remove the amenace.&lt;/p></description></item><item><title>Intro</title><link>https://metalblueberry.github.io/MountHearth/lore/intro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/MountHearth/lore/intro/</guid><description>&lt;h1 id="this-should-not-be-read-by-players">This should not be read by players!&lt;/h1>
+&lt;p>Anakin is a knignt for the order of &lt;strong>Onir&lt;/strong>. He is looking for a half giant that has been seen on this lands. The plan is to kill it to remove the amenace.&lt;/p></description></item><item><title>Intro</title><link>https://metalblueberry.github.io/MountHearth/master/intro/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/MountHearth/master/intro/</guid><description>&lt;h1 id="this-should-not-be-read-by-players">This should not be read by players!&lt;/h1>
 &lt;!--more -->
 &lt;h2 id="the-office">The office&lt;/h2>
 &lt;p>Sara. as the escape room receptionist, leads the players into a room that looks like an office. A desk is in the middle with a wooden chair. the are 4 lock drawers. On the table there is a book, ink and quill and candles.
@@ -63,7 +86,7 @@ Event, one of the doors is open and contains similar items&lt;/p>
 &lt;/blockquote>
 &lt;h2 id="exterior">Exterior&lt;/h2>
 &lt;p>On the jail is carved into a wall of a stone mountain and the only exit is the door in the corridor.&lt;/p>
-&lt;p>There is a barn with 4 horses and a carriage prepared to transport up to 6 prisoners.&lt;/p></description></item><item><title>Onir</title><link>https://metalblueberry.github.io/MountHearth/lore/onir/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/MountHearth/lore/onir/</guid><description>&lt;p>Onir is the god of justice. His knights are famous for being helpful and watching for the people in the Alzian republic. The prince has been using his influence in his favour making people believe that other species are dangerous.&lt;/p>
+&lt;p>There is a barn with 4 horses and a carriage prepared to transport up to 6 prisoners.&lt;/p></description></item><item><title>Onir</title><link>https://metalblueberry.github.io/MountHearth/master/onir/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/MountHearth/master/onir/</guid><description>&lt;p>Onir is the god of justice. His knights are famous for being helpful and watching for the people in the Alzian republic. The prince has been using his influence in his favour making people believe that other species are dangerous.&lt;/p>
 &lt;p>Coronel Adrian is the one responsible of tweaking the Onir&amp;rsquo;s knights behaviour.&lt;/p></description></item><item><title>Sound</title><link>https://metalblueberry.github.io/MountHearth/lore/sound/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/MountHearth/lore/sound/</guid><description>&lt;p>Sound effects for the game&lt;/p>
 &lt;!-- more-->
 &lt;h2 id="base-ambient">Base Ambient&lt;/h2>
@@ -154,7 +177,4 @@ allow="clipboard-write; encrypted-media"
 &lt;a href="fauna.png">
 &lt;img src="fauna.png" alt="fauna" />
 &lt;/a>
-&lt;/p>&lt;/p></description></item><item><title>The Druids</title><link>https://metalblueberry.github.io/MountHearth/lore/sidequests/druids/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/MountHearth/lore/sidequests/druids/</guid><description>&lt;p>Druids living in the forest are protecting all life within it. Players may find Dryads and sprites protecting the forest
-Dryads &lt;a href="https://online.anyflip.com/duex/ixpz/mobile/index.html#p=122">https://online.anyflip.com/duex/ixpz/mobile/index.html#p=122&lt;/a>
-sprites &lt;a href="https://online.anyflip.com/duex/ixpz/mobile/index.html#p=285">https://online.anyflip.com/duex/ixpz/mobile/index.html#p=285&lt;/a>
-Druids are friendly if players do not harm the forest or any living creatures&lt;/p></description></item><item><title>The Factory</title><link>https://metalblueberry.github.io/MountHearth/lore/sidequests/thefactory/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/MountHearth/lore/sidequests/thefactory/</guid><description>&lt;p>There is a factory owned by the prince that is trying to create potions that will increase the power of animals and humans to use them for&lt;/p></description></item><item><title>The Racist</title><link>https://metalblueberry.github.io/MountHearth/lore/sidequests/racist/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://metalblueberry.github.io/MountHearth/lore/sidequests/racist/</guid><description>&lt;p>Some men chase the players in the name of the prince because they are of another species&lt;/p></description></item></channel></rss>
+&lt;/p>&lt;/p></description></item></channel></rss>
