@@ -68,7 +68,10 @@ url = "/lore"
 # url = "https://gohugo.io/"
 
 [params.assets]
-css = ["css/custom.css"] 
+css = ["css/custom.css","css/fastsearch.css"] 
 
 [taxonomies]
     category = "categories"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
