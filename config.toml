@@ -1,9 +1,9 @@
 baseURL = "https://metalblueberry.github.io/MountHearth/"
-languageCode = "en-us"
+languageCode = "es-es"
 title = "MountHearth"
 
 theme = "hugo-notepadium"
-copyright = "Victor Perez"
+copyright = "Game Master"
 
 hasCJKLanguage = false
 
@@ -23,7 +23,7 @@ noClasses = false
 unsafe = true  # enable raw HTML in Markdown
 
 [params]
-mainSections = ["diary"]
+mainSections = ["diario"]
 style = "auto"  # default: auto. light: light theme, dark: dark theme, auto: based on system.
 dateFormat = "Monday, January 2, 2006"  # if unset, default is "2006-01-02"
 logo = ""  # if you have a logo png
@@ -50,14 +50,18 @@ addThisId = ""
 inlineToolId = ""
 
 [params.nav]
-showCategories = true       # /categories/
+showCategories = false       # /categories/
 showTags = false             # /tags/
 
 # custom navigation items
 
 [[params.nav.custom]]
 title = "Personajes"
-url = "/characters"
+url = "/personajes"
+
+[[params.nav.custom]]
+title = "Mundo"
+url = "/lore"
 
 # [[params.nav.custom]]
 # title = "Hugo"

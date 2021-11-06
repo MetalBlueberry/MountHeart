@@ -1,7 +1,7 @@
 ---
-title: Personajes
+title: Game Master Notes
 categories: []
-imgs: []
+imgs: [""]
 cover: ""  # image show on top
 readingTime: true  # show reading time after article date
 toc: true
@@ -11,3 +11,5 @@ single: false  # display as a single page, hide navigation on bottom, like as ab
 license: ""  # CC License
 draft: false
 ---
+
+# THIS CONTENT IS ONLY FOR THE GAME MASTER

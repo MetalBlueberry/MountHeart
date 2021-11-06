@@ -1,5 +1,5 @@
 ---
-title: Natura
+title: Personajes
 categories: []
 imgs: []
 cover: ""  # image show on top
@@ -12,10 +12,4 @@ license: ""  # CC License
 draft: false
 ---
 
-+2 DEX
-+2 Prof
-+1d6 bow
-
-
-| ability | description |
-| ------- | ----------- |
+Lista de personajes importantes en MountHeart
