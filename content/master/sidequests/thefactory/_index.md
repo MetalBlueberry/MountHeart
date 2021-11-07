@@ -12,4 +12,6 @@ license: ""  # CC License
 draft: false
 ---
 
-There is a factory owned by the prince that is trying to create potions that will increase the power of animals and humans to use them for 
+There is a factory owned by the prince that is trying to create potions that will increase the power of animals and humans to use them for battle.
+
+There is an iridiscent naga
