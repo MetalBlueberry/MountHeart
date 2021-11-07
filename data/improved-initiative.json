@@ -1,17 +1,17 @@
 {
   "ImprovedInitiative.Spells": "[]",
-  "_hjid": "28dd43c8-5235-4d3d-bee6-362f926a7136",
-  "ImprovedInitiative.SavedEncounters": "[]",
+  "_hjid": "13c22c74-5e40-4c87-a680-40fc0debc105",
+  "ImprovedInitiative.PersistentCharacters": "[]",
   "ImprovedInitiative.Creatures": "[]",
-  "ImprovedInitiative.User": "[\"Settings\",\"SkipIntro\",\"AllowTracking\"]",
+  "ImprovedInitiative.User.AllowTracking": "true",
+  "ImprovedInitiative.SavedEncounters": "[]",
   "ImprovedInitiative.PlayerCharacters": "[]",
   "ImprovedInitiative.User.Settings": "{\"Commands\":[{\"Name\":\"toggle-menu\",\"KeyBinding\":\"alt+m\",\"ShowOnActionBar\":true,\"ShowInCombatantRow\":false},{\"Name\":\"start-encounter\",\"KeyBinding\":\"alt+r\",\"ShowOnActionBar\":true,\"ShowInCombatantRow\":false},{\"Name\":\"reroll-initiative\",\"KeyBinding\":\"alt+shift+i\",\"ShowOnActionBar\":false,\"ShowInCombatantRow\":false},{\"Name\":\"end-encounter\",\"KeyBinding\":\"shift+alt+r\",\"ShowOnActionBar\":true,\"ShowInCombatantRow\":false},{\"Name\":\"clear-encounter\",\"KeyBinding\":\"alt+shift+del\",\"ShowOnActionBar\":false,\"ShowInCombatantRow\":false},{\"Name\":\"clean-encounter\",\"KeyBinding\":\"alt+del\",\"ShowOnActionBar\":true,\"ShowInCombatantRow\":false},{\"Name\":\"open-library\",\"KeyBinding\":\"alt+a\",\"ShowOnActionBar\":true,\"ShowInCombatantRow\":false},{\"Name\":\"roll-dice\",\"KeyBinding\":\"d\",\"ShowOnActionBar\":false,\"ShowInCombatantRow\":false},{\"Name\":\"quick-add\",\"KeyBinding\":\"alt+q\",\"ShowOnActionBar\":false,\"ShowInCombatantRow\":false},{\"Name\":\"restore-all-player-character-hp\",\"KeyBinding\":\"alt+shift+t\",\"ShowOnActionBar\":true,\"ShowInCombatantRow\":false},{\"Name\":\"player-window\",\"KeyBinding\":\"alt+w\",\"ShowOnActionBar\":true,\"ShowInCombatantRow\":false},{\"Name\":\"toggle-full-screen\",\"KeyBinding\":\"f11\",\"ShowOnActionBar\":false,\"ShowInCombatantRow\":false},{\"Name\":\"next-turn\",\"KeyBinding\":\"n\",\"ShowOnActionBar\":true,\"ShowInCombatantRow\":false},{\"Name\":\"previous-turn\",\"KeyBinding\":\"alt+n\",\"ShowOnActionBar\":false,\"ShowInCombatantRow\":false},{\"Name\":\"save-encounter\",\"KeyBinding\":\"alt+s\",\"ShowOnActionBar\":true,\"ShowInCombatantRow\":false},{\"Name\":\"settings\",\"KeyBinding\":\"?\",\"ShowOnActionBar\":true,\"ShowInCombatantRow\":false},{\"Name\":\"apply-damage\",\"KeyBinding\":\"t\",\"ShowOnActionBar\":true,\"ShowInCombatantRow\":true},{\"Name\":\"apply-healing\",\"KeyBinding\":\"l\",\"ShowOnActionBar\":true,\"ShowInCombatantRow\":true},{\"Name\":\"apply-temporary-hp\",\"KeyBinding\":\"alt+t\",\"ShowOnActionBar\":false,\"ShowInCombatantRow\":false},{\"Name\":\"add-tag\",\"KeyBinding\":\"g\",\"ShowOnActionBar\":false,\"ShowInCombatantRow\":true},{\"Name\":\"update-notes\",\"KeyBinding\":\"y\",\"ShowOnActionBar\":false,\"ShowInCombatantRow\":false},{\"Name\":\"remove\",\"KeyBinding\":\"del\",\"ShowOnActionBar\":true,\"ShowInCombatantRow\":false},{\"Name\":\"set-alias\",\"KeyBinding\":\"f2\",\"ShowOnActionBar\":true,\"ShowInCombatantRow\":false},{\"Name\":\"toggle-hidden\",\"KeyBinding\":\"h\",\"ShowOnActionBar\":false,\"ShowInCombatantRow\":true},{\"Name\":\"toggle-reveal-ac\",\"KeyBinding\":\"alt+h\",\"ShowOnActionBar\":false,\"ShowInCombatantRow\":true},{\"Name\":\"edit-statblock\",\"KeyBinding\":\"e\",\"ShowOnActionBar\":false,\"ShowInCombatantRow\":false},{\"Name\":\"quick-edit-statblock\",\"KeyBinding\":\"\",\"ShowOnActionBar\":true,\"ShowInCombatantRow\":false},{\"Name\":\"set-initiative\",\"KeyBinding\":\"alt+i\",\"ShowOnActionBar\":false,\"ShowInCombatantRow\":false},{\"Name\":\"link-initiative\",\"KeyBinding\":\"alt+l\",\"ShowOnActionBar\":false,\"ShowInCombatantRow\":false},{\"Name\":\"move-down\",\"KeyBinding\":\"alt+j\",\"ShowOnActionBar\":true,\"ShowInCombatantRow\":false},{\"Name\":\"move-up\",\"KeyBinding\":\"alt+k\",\"ShowOnActionBar\":true,\"ShowInCombatantRow\":false},{\"Name\":\"select-next\",\"KeyBinding\":\"j\",\"ShowOnActionBar\":false,\"ShowInCombatantRow\":false},{\"Name\":\"select-previous\",\"KeyBinding\":\"k\",\"ShowOnActionBar\":false,\"ShowInCombatantRow\":false},{\"Name\":\"open-library-manager\",\"KeyBinding\":\"alt+shift+a\",\"ShowOnActionBar\":false,\"ShowInCombatantRow\":false}],\"Rules\":{\"RollMonsterHp\":false,\"EnableBossAndMinionHP\":false,\"AllowNegativeHP\":false,\"AutoCheckConcentration\":true,\"AutoGroupInitiative\":\"None\",\"AutoRerollInitiative\":\"No\"},\"TrackerView\":{\"DisplayPortraits\":true,\"DisplayRoundCounter\":false,\"DisplayTurnTimer\":false,\"DisplayDifficulty\":false,\"DisplayHPBar\":true,\"PostCombatStats\":\"None\"},\"PlayerView\":{\"ActiveCombatantOnTop\":true,\"AllowPlayerSuggestions\":false,\"AllowTagSuggestions\":false,\"MonsterHPVerbosity\":\"Colored Label\",\"PlayerHPVerbosity\":\"Actual HP\",\"HideMonstersOutsideEncounter\":true,\"DisplayRoundCounter\":false,\"DisplayTurnTimer\":false,\"DisplayPortraits\":false,\"SplashPortraits\":false,\"CustomCSS\":\"\",\"CustomStyles\":{\"combatantBackground\":\"\",\"combatantText\":\"\",\"activeCombatantIndicator\":\"\",\"font\":\"\",\"headerBackground\":\"\",\"headerText\":\"\",\"mainBackground\":\"\",\"backgroundUrl\":\"\"},\"CustomEncounterId\":\"\"},\"Version\":\"2.17.0\"}",
-  "ImprovedInitiative.User.AllowTracking": "true",
-  "ImprovedInitiative.AutoSavedEncounters.default": "{\"ActiveCombatantId\":null,\"RoundCounter\":1,\"Combatants\":[{\"Id\":\"s1cdeddz\",\"PersistentCharacterId\":\"c81dnch7\",\"StatBlock\":{\"Id\":\"c81dnch7\",\"Name\":\"Conan\",\"Path\":\"Events/Mine\",\"Source\":\"Basic Rules\",\"Type\":\"Medium humanoid (any race), any alignment\",\"HP\":{\"Value\":11,\"Notes\":\"(2d8+2)\"},\"AC\":{\"Value\":12,\"Notes\":\"(Leather shirt)\"},\"InitiativeModifier\":0,\"InitiativeAdvantage\":false,\"Speed\":[\"30 ft.\"],\"Abilities\":{\"Str\":14,\"Dex\":12,\"Con\":10,\"Int\":10,\"Wis\":11,\"Cha\":10},\"DamageVulnerabilities\":[],\"DamageResistances\":[],\"DamageImmunities\":[],\"ConditionImmunities\":[],\"Saves\":[],\"Skills\":[{\"Name\":\"Perception\",\"Modifier\":2}],\"Senses\":[],\"Languages\":[\"any one language (usually Common)\"],\"Challenge\":\"1/8\",\"Traits\":[],\"Actions\":[{\"Name\":\"Pickaxe\",\"Content\":\"Melee Weapon Attack: +3 to hit, reach 5 ft one target. Hit: 3 (1d6 + 2) piercing damage \",\"Usage\":\"\"}],\"Reactions\":[],\"LegendaryActions\":[],\"Description\":\"Worker on the iron mines\",\"Player\":\"\",\"Version\":\"3.1.2\",\"ImageURL\":\"\"},\"CurrentHP\":11,\"CurrentNotes\":\"\",\"TemporaryHP\":0,\"Initiative\":0,\"InitiativeGroup\":null,\"Alias\":\"\",\"IndexLabel\":1,\"Tags\":[],\"Hidden\":false,\"RevealedAC\":false,\"RoundCounter\":0,\"InterfaceVersion\":\"3.1.2\",\"ElapsedSeconds\":0},{\"Id\":\"d9jhajcp\",\"PersistentCharacterId\":\"65idbee1\",\"StatBlock\":{\"Id\":\"65idbee1\",\"Name\":\"Ohmrom\",\"Path\":\"\",\"Source\":\"Custom\",\"Type\":\"Human Knight\",\"HP\":{\"Value\":28,\"Notes\":\"(2d10+16)\"},\"AC\":{\"Value\":14,\"Notes\":\"\"},\"InitiativeModifier\":0,\"InitiativeAdvantage\":false,\"Speed\":[],\"Abilities\":{\"Str\":15,\"Dex\":13,\"Con\":15,\"Int\":11,\"Wis\":11,\"Cha\":14},\"DamageVulnerabilities\":[],\"DamageResistances\":[],\"DamageImmunities\":[],\"ConditionImmunities\":[],\"Saves\":[{\"Name\":\"STR\",\"Modifier\":4},{\"Name\":\"DEX\",\"Modifier\":1},{\"Name\":\"CON\",\"Modifier\":4},{\"Name\":\"CHA\",\"Modifier\":2}],\"Skills\":[{\"Name\":\"Animal Handling\",\"Modifier\":2},{\"Name\":\"Intimidation\",\"Modifier\":4},{\"Name\":\"Insight\",\"Modifier\":2},{\"Name\":\"Religion\",\"Modifier\":2}],\"Senses\":[],\"Languages\":[],\"Challenge\":\"3\",\"Traits\":[],\"Actions\":[{\"Name\":\"Longsword\",\"Content\":\"1d8+4 Slash\\nImproved critical\",\"Usage\":\"\"},{\"Name\":\"Drain blood\",\"Content\":\"You can drink the blood of your enemies. Before an attack, you must awake Barkilara and declare the amount of blood you offer. After a successful hit, you can make extra damage equal to your Blood Thirst points and lose them. If you miss, Barkilara will try to drink your blood Save CD CHA\",\"Usage\":\"\"},{\"Name\":\"Poison\",\"Content\":\"You can corrupt the blood of your enemies. After a successful hit, you can poison try to poison a creature, Save CD 10 CON damage 1d4 on failure. Increases Blood Thirst by 1\",\"Usage\":\"\"},{\"Name\":\"Return Blood\",\"Content\":\"You can ask Barkilara to return blood to your body. declare the amount of blood you want. Heals yourself that number of hit points CHA Persuasion 15. The Thirst is increased by this amount, This can be done as an extra action\",\"Usage\":\"\"},{\"Name\":\"Alter Body\",\"Content\":\"You change the shape of your body to match other human creature if you drink their blood. It last between 30m and 1h. You don’t receive any benefits apart from the physical change. It takes 1m to transform completely. This action will reduce your blood thirst by 1 when you drink the blood.\\n\",\"Usage\":\"\"},{\"Name\":\"Second Wind\",\"Content\":\"Once per short rest, you can use a bonus action to regain 1d10+3 level HP.\",\"Usage\":\"\"},{\"Name\":\"Action Surge\",\"Content\":\"You can take one additional action on your turn. This can be used 1 times per short rest\",\"Usage\":\"\"}],\"Reactions\":[],\"LegendaryActions\":[],\"Description\":\"\",\"Player\":\"player\",\"Version\":\"3.1.2\",\"ImageURL\":\"https://www.dndbeyond.com/avatars/20598/407/1581111423-57007590.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp\"},\"CurrentHP\":28,\"CurrentNotes\":\"# Blood\\n\\n- Anakin [2/2]\\n- Unknown [4/4]\\n- Mix Griffon/Natura/Human [4/4]\",\"TemporaryHP\":0,\"Initiative\":0,\"InitiativeGroup\":null,\"Alias\":\"\",\"IndexLabel\":1,\"Tags\":[],\"Hidden\":false,\"RevealedAC\":false,\"RoundCounter\":0,\"InterfaceVersion\":\"3.1.2\",\"ElapsedSeconds\":0},{\"Id\":\"1e1rmrzp\",\"PersistentCharacterId\":\"r1yfm5dq\",\"StatBlock\":{\"Id\":\"r1yfm5dq\",\"Name\":\"Natura\",\"Path\":\"\",\"Source\":\"Custom\",\"Type\":\"Tiefling Ranger\",\"HP\":{\"Value\":25,\"Notes\":\"(2d10+14)\"},\"AC\":{\"Value\":12,\"Notes\":\"\"},\"InitiativeModifier\":2,\"InitiativeAdvantage\":false,\"Speed\":[],\"Abilities\":{\"Str\":12,\"Dex\":15,\"Con\":12,\"Int\":10,\"Wis\":12,\"Cha\":10},\"DamageVulnerabilities\":[],\"DamageResistances\":[\"Fire\"],\"DamageImmunities\":[],\"ConditionImmunities\":[],\"Saves\":[{\"Name\":\"STR\",\"Modifier\":3},{\"Name\":\"DEX\",\"Modifier\":4},{\"Name\":\"CON\",\"Modifier\":1},{\"Name\":\"WIS\",\"Modifier\":2}],\"Skills\":[{\"Name\":\"Animal Handling\",\"Modifier\":4},{\"Name\":\"Nature\",\"Modifier\":2},{\"Name\":\"Perception\",\"Modifier\":4},{\"Name\":\"Stealth\",\"Modifier\":4},{\"Name\":\"Survival\",\"Modifier\":4}],\"Senses\":[\"darkvision 60 ft.\"],\"Languages\":[],\"Challenge\":\"3\",\"Traits\":[],\"Actions\":[{\"Name\":\"Shortbow\",\"Content\":\"+4 (1d6+2)\",\"Usage\":\"\"},{\"Name\":\"Hunters mark\",\"Content\":\"You choose a creature you can see within range and mystically mark it as your quarry. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to mark a new creature.\\n\\nAt Higher Levels. When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.\",\"Usage\":\"\"},{\"Name\":\"Colossus Slayer\",\"Content\":\"Once per turn, when you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it’s below its HP maximum.\",\"Usage\":\"\"},{\"Name\":\"Animal Frendship\",\"Content\":\"This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast's Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the spell's duration. If you or one of your companions harms the target, the spell ends.\\n\\nAt Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast for each slot level above 1st.\",\"Usage\":\"\"},{\"Name\":\"Speak with Animals\",\"Content\":\"You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the GM's discretion.\",\"Usage\":\"\"}],\"Reactions\":[{\"Name\":\"Hellish Rebuke\",\"Content\":\"You point your finger, and the creature that damaged you is momentarily surrounded by hellish flames. The creature must make a Dexterity saving throw. It takes 2d10 fire damage on a failed save, or half as much damage on a successful one.\\n\\nAt Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d10 for each slot level above 1st.\",\"Usage\":\"\"}],\"LegendaryActions\":[],\"Description\":\"\",\"Player\":\"player\",\"Version\":\"3.0.6\",\"ImageURL\":\"https://www.dndbeyond.com/avatars/19746/886/1581111423-56402350.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp\"},\"CurrentHP\":25,\"CurrentNotes\":\"# Spells\\n\\nArrows [10/100]\\n\\n| ability | uses |\\n| -: | - |\\n| Hellish Rebuke | [1/1] |\\n| lvl 1 Animal Friendship, Speak with Animals, Hunters mark | [3/3] |\",\"TemporaryHP\":0,\"Initiative\":0,\"InitiativeGroup\":null,\"Alias\":\"\",\"IndexLabel\":1,\"Tags\":[],\"Hidden\":false,\"RevealedAC\":false,\"RoundCounter\":0,\"InterfaceVersion\":\"3.1.2\",\"ElapsedSeconds\":0}],\"BackgroundImageUrl\":null,\"ElapsedSeconds\":0}",
+  "ImprovedInitiative.AutoSavedEncounters.default": "{\"ActiveCombatantId\":null,\"RoundCounter\":1,\"Combatants\":[{\"Id\":\"b9z12su6\",\"PersistentCharacterId\":\"r1yfm5dq\",\"StatBlock\":{\"Id\":\"r1yfm5dq\",\"Name\":\"Natura\",\"Path\":\"\",\"Source\":\"Custom\",\"Type\":\"Tiefling Ranger\",\"HP\":{\"Value\":25,\"Notes\":\"(2d10+14)\"},\"AC\":{\"Value\":12,\"Notes\":\"\"},\"InitiativeModifier\":2,\"InitiativeAdvantage\":false,\"Speed\":[],\"Abilities\":{\"Str\":12,\"Dex\":15,\"Con\":12,\"Int\":10,\"Wis\":12,\"Cha\":10},\"DamageVulnerabilities\":[],\"DamageResistances\":[\"Fire\"],\"DamageImmunities\":[],\"ConditionImmunities\":[],\"Saves\":[],\"Skills\":[],\"Senses\":[],\"Languages\":[],\"Challenge\":\"3\",\"Traits\":[],\"Actions\":[{\"Name\":\"Shortbow\",\"Content\":\"+4 (1d6+2)\",\"Usage\":\"\"},{\"Name\":\"Hunters mark\",\"Content\":\"You choose a creature you can see within range and mystically mark it as your quarry. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to mark a new creature.\\n\\nAt Higher Levels. When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.\",\"Usage\":\"\"},{\"Name\":\"Hellish Rebuke\",\"Content\":\"Hellish Rebuke\",\"Usage\":\"\"},{\"Name\":\"Colossus Slayer\",\"Content\":\"Once per turn, when you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it’s below its HP maximum.\",\"Usage\":\"\"},{\"Name\":\"Animal Frendship\",\"Content\":\"This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast's Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the spell's duration. If you or one of your companions harms the target, the spell ends.\\n\\nAt Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast for each slot level above 1st.\",\"Usage\":\"\"},{\"Name\":\"Speak with Animals\",\"Content\":\"You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the GM's discretion.\",\"Usage\":\"\"}],\"Reactions\":[],\"LegendaryActions\":[],\"Description\":\"\",\"Player\":\"player\",\"Version\":\"3.0.6\",\"ImageURL\":\"https://www.dndbeyond.com/avatars/19746/886/1581111423-56402350.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp\"},\"CurrentHP\":25,\"CurrentNotes\":\"\",\"TemporaryHP\":0,\"Initiative\":0,\"InitiativeGroup\":null,\"Alias\":\"\",\"IndexLabel\":1,\"Tags\":[],\"Hidden\":false,\"RevealedAC\":false,\"RoundCounter\":0,\"InterfaceVersion\":\"3.1.2\",\"ElapsedSeconds\":0},{\"Id\":\"z30bs8na\",\"PersistentCharacterId\":\"65idbee1\",\"StatBlock\":{\"Id\":\"65idbee1\",\"Name\":\"Ohmrom\",\"Path\":\"\",\"Source\":\"Custom\",\"Type\":\"Human Knight\",\"HP\":{\"Value\":28,\"Notes\":\"(2d10+16)\"},\"AC\":{\"Value\":14,\"Notes\":\"\"},\"InitiativeModifier\":0,\"InitiativeAdvantage\":false,\"Speed\":[],\"Abilities\":{\"Str\":15,\"Dex\":13,\"Con\":15,\"Int\":11,\"Wis\":11,\"Cha\":14},\"DamageVulnerabilities\":[],\"DamageResistances\":[],\"DamageImmunities\":[],\"ConditionImmunities\":[],\"Saves\":[{\"Name\":\"STR\",\"Modifier\":4},{\"Name\":\"DEX\",\"Modifier\":1},{\"Name\":\"CON\",\"Modifier\":4},{\"Name\":\"CHA\",\"Modifier\":2}],\"Skills\":[{\"Name\":\"Animal Handling\",\"Modifier\":2},{\"Name\":\"Intimidation\",\"Modifier\":4},{\"Name\":\"Insight\",\"Modifier\":2},{\"Name\":\"Religion\",\"Modifier\":2}],\"Senses\":[],\"Languages\":[],\"Challenge\":\"3\",\"Traits\":[],\"Actions\":[{\"Name\":\"Longsword\",\"Content\":\"1d8+4 Slash\\nImproved critical\",\"Usage\":\"\"},{\"Name\":\"Drain blood\",\"Content\":\"You can drink the blood of your enemies. Before an attack, you must awake Barkilara and declare the amount of blood you offer. After a successful hit, you can make extra damage equal to your Blood Thirst points and lose them. If you miss, Barkilara will try to drink your blood Save CD CHA\",\"Usage\":\"\"},{\"Name\":\"Poison\",\"Content\":\"You can corrupt the blood of your enemies. After a successful hit, you can poison try to poison a creature, Save CD 10 CON damage 1d4 on failure. Increases Blood Thirst by 1\",\"Usage\":\"\"},{\"Name\":\"Return Blood\",\"Content\":\"You can ask Barkilara to return blood to your body. declare the amount of blood you want. Heals yourself that number of hit points CHA Persuasion 15. The Thirst is increased by this amount, This can be done as an extra action\",\"Usage\":\"\"},{\"Name\":\"Alter Body\",\"Content\":\"You change the shape of your body to match other human creature if you drink their blood. It last between 30m and 1h. You don’t receive any benefits apart from the physical change. It takes 1m to transform completely. This action will reduce your blood thirst by 1 when you drink the blood.\\n\",\"Usage\":\"\"},{\"Name\":\"Second Wind\",\"Content\":\"Once per short rest, you can use a bonus action to regain 1d10+3 level HP.\",\"Usage\":\"\"},{\"Name\":\"Action Surge\",\"Content\":\"You can take one additional action on your turn. This can be used 1 times per short rest\",\"Usage\":\"\"}],\"Reactions\":[],\"LegendaryActions\":[],\"Description\":\"\",\"Player\":\"player\",\"Version\":\"3.1.2\",\"ImageURL\":\"https://www.dndbeyond.com/avatars/20598/407/1581111423-57007590.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp\"},\"CurrentHP\":28,\"CurrentNotes\":\"# Blood\\n\\n- Anakin [2/2]\\n- Unknown [4/4]\\n- Mix Griffon/Natura/Human [1/1]\\n- Human [2/3]\",\"TemporaryHP\":0,\"Initiative\":0,\"InitiativeGroup\":null,\"Alias\":\"\",\"IndexLabel\":1,\"Tags\":[],\"Hidden\":false,\"RevealedAC\":false,\"RoundCounter\":0,\"InterfaceVersion\":\"3.1.2\",\"ElapsedSeconds\":0},{\"Id\":\"x2ri8g8p\",\"StatBlock\":{\"Id\":\"mm.guard\",\"Name\":\"Guard\",\"Path\":\"\",\"Source\":\"Basic Rules\",\"Type\":\"Medium humanoid (any race), any alignment\",\"HP\":{\"Value\":11,\"Notes\":\"(2d8+2)\"},\"AC\":{\"Value\":16,\"Notes\":\"(chain shirt, shield)\"},\"InitiativeModifier\":0,\"InitiativeAdvantage\":false,\"Speed\":[\"30 ft.\"],\"Abilities\":{\"Str\":13,\"Dex\":12,\"Con\":12,\"Int\":10,\"Wis\":11,\"Cha\":10},\"DamageVulnerabilities\":[],\"DamageResistances\":[],\"DamageImmunities\":[],\"ConditionImmunities\":[],\"Saves\":[],\"Skills\":[{\"Name\":\"Perception\",\"Modifier\":2}],\"Senses\":[],\"Languages\":[\"any one language (usually Common)\"],\"Challenge\":\"1/8\",\"Traits\":[],\"Actions\":[{\"Name\":\"Spear\",\"Content\":\"Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d6 + 1) piercing damage or 5 (1d8 + 1) piercing damage if used with two hands to make a melee attack.\",\"Usage\":\"\"}],\"Reactions\":[],\"LegendaryActions\":[],\"Description\":\"\",\"Player\":\"\",\"Version\":\"3.1.2\",\"ImageURL\":\"\"},\"CurrentHP\":5,\"CurrentNotes\":\"\",\"TemporaryHP\":0,\"Initiative\":0,\"InitiativeGroup\":null,\"Alias\":\"Alfredo\",\"IndexLabel\":1,\"Tags\":[],\"Hidden\":false,\"RevealedAC\":false,\"RoundCounter\":0,\"InterfaceVersion\":\"3.1.2\",\"ElapsedSeconds\":0}],\"BackgroundImageUrl\":null,\"ElapsedSeconds\":0}",
   "ImprovedInitiative.User.SkipIntro": "true",
-  "ImprovedInitiative.PersistentCharacters": "[]",
+  "ImprovedInitiative.User": "[\"Settings\",\"SkipIntro\",\"AllowTracking\"]",
   "ImprovedInitiative.AutoSavedEncounters": "[\"default\"]",
-  "Creatures.0fmjz9vs": {
+  "Creatures.Creatures.0fmjz9vs": {
     "Id": "0fmjz9vs",
     "Name": "Miner",
     "Path": "",
@@ -68,9 +68,9 @@
     "Player": "",
     "Version": "3.1.2",
     "ImageURL": "",
-    "LastUpdateMs": 1636301785066
+    "LastUpdateMs": 1636303728515
   },
-  "Creatures.Creatures.3aihm6kb": {
+  "Creatures.Creatures.Creatures.3aihm6kb": {
     "Id": "3aihm6kb",
     "Name": "Guard Archer",
     "Path": "",
@@ -132,9 +132,9 @@
     "Player": "",
     "Version": "2.17.0",
     "ImageURL": "",
-    "LastUpdateMs": 1633871069578
+    "LastUpdateMs": 1636303728515
   },
-  "Creatures.Creatures.5pcttjsu": {
+  "Creatures.Creatures.Creatures.5pcttjsu": {
     "Id": "5pcttjsu",
     "Name": "Weak Gelatinous Cube",
     "Path": "",
@@ -209,9 +209,9 @@
     "Player": "",
     "Version": "2.17.0",
     "ImageURL": "",
-    "LastUpdateMs": 1633871069578
+    "LastUpdateMs": 1636303728515
   },
-  "Creatures.Creatures.e5927qbg": {
+  "Creatures.Creatures.Creatures.e5927qbg": {
     "Id": "e5927qbg",
     "Name": "Wolpertinger",
     "Path": "",
@@ -260,9 +260,9 @@
     "Version": "3.0.6",
     "ImageURL": "",
     "InitiativeSpecialRoll": "advantage",
-    "LastUpdateMs": 1633871069578
+    "LastUpdateMs": 1636303728515
   },
-  "Creatures.Creatures.g3pzqqqf": {
+  "Creatures.Creatures.Creatures.g3pzqqqf": {
     "Id": "g3pzqqqf",
     "Name": "New Creature",
     "Path": "",
@@ -309,9 +309,9 @@
     "Player": "",
     "Version": "2.17.0",
     "ImageURL": "",
-    "LastUpdateMs": 1633871069578
+    "LastUpdateMs": 1636303728515
   },
-  "Creatures.e5927qbg": {
+  "Creatures.Creatures.e5927qbg": {
     "Id": "e5927qbg",
     "Name": "Wolpertinger",
     "Path": "",
@@ -362,9 +362,9 @@
     "Version": "3.0.6",
     "ImageURL": "https://upload.wikimedia.org/wikipedia/commons/2/28/Wolpertinger.jpg",
     "InitiativeSpecialRoll": "advantage",
-    "LastUpdateMs": 1633878448665
+    "LastUpdateMs": 1636303728515
   },
-  "Creatures.reyz01zz": {
+  "Creatures.Creatures.reyz01zz": {
     "Id": "reyz01zz",
     "Name": "Iridiscent Naga",
     "Path": "",
@@ -477,7 +477,26 @@
     "Player": "",
     "Version": "3.1.2",
     "ImageURL": "https://github.com/MetalBlueberry/MountHeart/raw/master/content/master/sidequests/thefactory/naga.jpg",
-    "LastUpdateMs": 1636278912790
+    "LastUpdateMs": 1636303728515
+  },
+  "Spells.Spells.Spells.mckfd6xa": {
+    "Id": "mckfd6xa",
+    "Version": "2.17.0",
+    "Name": "Magic Shield",
+    "Path": "",
+    "Source": "Custom",
+    "CastingTime": "1m",
+    "Classes": [
+      "Sorcerer"
+    ],
+    "Components": "V, S",
+    "Description": "Magic Shield, Requires concentration. Up to 1m, Create a shield up to 80 feet away. You have 20 CA points per character slot level used to cast this spell. You can spread them as you wish. Any attack hitting the shield that breaks through the CA will break the shield in the given spot and requires a concentration save to keep the rest of the shield up.",
+    "Duration": "1m",
+    "Level": "1",
+    "Range": "60 feet",
+    "Ritual": true,
+    "School": "",
+    "LastUpdateMs": 1636303728516
   },
   "Spells.Spells.mckfd6xa": {
     "Id": "mckfd6xa",
@@ -495,34 +514,67 @@
     "Level": "1",
     "Range": "60 feet",
     "Ritual": true,
-    "School": "",
-    "LastUpdateMs": 1633871069578
-  },
-  "Spells.mckfd6xa": {
-    "Id": "mckfd6xa",
-    "Version": "2.17.0",
-    "Name": "Magic Shield",
-    "Path": "",
-    "Source": "Custom",
-    "CastingTime": "1m",
-    "Classes": [
-      "Sorcerer"
-    ],
-    "Components": "V, S",
-    "Description": "Magic Shield, Requires concentration. Up to 1m, Create a shield up to 80 feet away. You have 20 CA points per character slot level used to cast this spell. You can spread them as you wish. Any attack hitting the shield that breaks through the CA will break the shield in the given spot and requires a concentration save to keep the rest of the shield up.",
-    "Duration": "1m",
-    "Level": "1",
-    "Range": "60 feet",
-    "Ritual": true,
     "School": "Abjuration",
-    "LastUpdateMs": 1635788101048
+    "LastUpdateMs": 1636303728516
   },
-  "PersistentCharacters.0psk5djb": {
+  "PersistentCharacters.65idbee1": {
+    "Id": "65idbee1",
+    "Version": "3.1.2",
+    "Name": "",
+    "Path": "",
+    "LastUpdateMs": 1636306378975,
+    "CurrentHP": 1,
+    "StatBlock": {
+      "Id": "8shkp6dv",
+      "Name": "",
+      "Path": "",
+      "Source": "",
+      "Type": "",
+      "HP": {
+        "Value": 1,
+        "Notes": "(1d1+0)"
+      },
+      "AC": {
+        "Value": 10,
+        "Notes": ""
+      },
+      "InitiativeModifier": 0,
+      "InitiativeAdvantage": false,
+      "Speed": [],
+      "Abilities": {
+        "Str": 10,
+        "Dex": 10,
+        "Con": 10,
+        "Int": 10,
+        "Wis": 10,
+        "Cha": 10
+      },
+      "DamageVulnerabilities": [],
+      "DamageResistances": [],
+      "DamageImmunities": [],
+      "ConditionImmunities": [],
+      "Saves": [],
+      "Skills": [],
+      "Senses": [],
+      "Languages": [],
+      "Challenge": "",
+      "Traits": [],
+      "Actions": [],
+      "Reactions": [],
+      "LegendaryActions": [],
+      "Description": "",
+      "Player": "",
+      "Version": "3.1.2",
+      "ImageURL": ""
+    },
+    "Notes": "# Blood\n\n- Anakin [2/2]\n- Unknown [4/4]\n- Mix Griffon/Natura/Human [1/1]\n- Human [2/3]"
+  },
+  "PersistentCharacters.PersistentCharacters.0psk5djb": {
     "Id": "0psk5djb",
     "Version": "3.1.2",
     "Name": "Aria",
     "Path": "",
-    "LastUpdateMs": 1636277493126,
+    "LastUpdateMs": 1636303728515,
     "CurrentHP": 23,
     "StatBlock": {
       "Id": "0psk5djb",
@@ -656,12 +708,12 @@
     },
     "Notes": ""
   },
-  "PersistentCharacters.64pxbx1f": {
+  "PersistentCharacters.PersistentCharacters.64pxbx1f": {
     "Id": "64pxbx1f",
     "Version": "3.1.2",
     "Name": "Nolan",
     "Path": "Events/Factory",
-    "LastUpdateMs": 1636301411462,
+    "LastUpdateMs": 1636303728515,
     "CurrentHP": 12,
     "StatBlock": {
       "Id": "64pxbx1f",
@@ -717,12 +769,12 @@
     },
     "Notes": ""
   },
-  "PersistentCharacters.65idbee1": {
+  "PersistentCharacters.PersistentCharacters.65idbee1": {
     "Id": "65idbee1",
     "Version": "3.1.2",
     "Name": "Ohmrom",
     "Path": "",
-    "LastUpdateMs": 1636302572603,
+    "LastUpdateMs": 1636303728515,
     "CurrentHP": 28,
     "StatBlock": {
       "Id": "65idbee1",
@@ -839,12 +891,12 @@
     },
     "Notes": "# Blood\n\n- Anakin [2/2]\n- Unknown [4/4]\n- Mix Griffon/Natura/Human [4/4]"
   },
-  "PersistentCharacters.PersistentCharacters.0psk5djb": {
+  "PersistentCharacters.PersistentCharacters.PersistentCharacters.0psk5djb": {
     "Id": "0psk5djb",
     "Version": "2.17.0",
     "Name": "Aria",
     "Path": "",
-    "LastUpdateMs": 1633871069578,
+    "LastUpdateMs": 1636303728515,
     "CurrentHP": 3,
     "StatBlock": {
       "Id": "0psk5djb",
@@ -907,12 +959,12 @@
     },
     "Notes": ""
   },
-  "PersistentCharacters.PersistentCharacters.5b95dj6q": {
+  "PersistentCharacters.PersistentCharacters.PersistentCharacters.5b95dj6q": {
     "Id": "5b95dj6q",
     "Version": "2.17.0",
     "Name": "Sim",
     "Path": "",
-    "LastUpdateMs": 1633871069578,
+    "LastUpdateMs": 1636303728515,
     "CurrentHP": 23,
     "StatBlock": {
       "Id": "5b95dj6q",
@@ -1001,12 +1053,12 @@
     },
     "Notes": ""
   },
-  "PersistentCharacters.PersistentCharacters.65idbee1": {
+  "PersistentCharacters.PersistentCharacters.PersistentCharacters.65idbee1": {
     "Id": "65idbee1",
     "Version": "3.0.6",
     "Name": "Ohmrom",
     "Path": "",
-    "LastUpdateMs": 1633871069578,
+    "LastUpdateMs": 1636303728515,
     "CurrentHP": 28,
     "StatBlock": {
       "Id": "65idbee1",
@@ -1123,12 +1175,12 @@
     },
     "Notes": ""
   },
-  "PersistentCharacters.PersistentCharacters.bbyrg304": {
+  "PersistentCharacters.PersistentCharacters.PersistentCharacters.bbyrg304": {
     "Id": "bbyrg304",
     "Version": "2.17.0",
     "Name": "Mon",
     "Path": "",
-    "LastUpdateMs": 1633871069578,
+    "LastUpdateMs": 1636303728515,
     "CurrentHP": 49,
     "StatBlock": {
       "Id": "bbyrg304",
@@ -1221,12 +1273,12 @@
     },
     "Notes": ""
   },
-  "PersistentCharacters.PersistentCharacters.gh4xu75y": {
+  "PersistentCharacters.PersistentCharacters.PersistentCharacters.gh4xu75y": {
     "Id": "gh4xu75y",
     "Version": "2.17.0",
     "Name": "Gregorr",
     "Path": "Sample Player Characters",
-    "LastUpdateMs": 1633871069578,
+    "LastUpdateMs": 1636303728515,
     "CurrentHP": 11,
     "StatBlock": {
       "Id": "gh4xu75y",
@@ -1297,12 +1349,12 @@
     },
     "Notes": ""
   },
-  "PersistentCharacters.PersistentCharacters.k0qjfcqj": {
+  "PersistentCharacters.PersistentCharacters.PersistentCharacters.k0qjfcqj": {
     "Id": "k0qjfcqj",
     "Version": "2.17.0",
     "Name": "Underfoot",
     "Path": "Sample Player Characters",
-    "LastUpdateMs": 1633871069578,
+    "LastUpdateMs": 1636303728516,
     "CurrentHP": 9,
     "StatBlock": {
       "Id": "k0qjfcqj",
@@ -1372,12 +1424,12 @@
     },
     "Notes": ""
   },
-  "PersistentCharacters.PersistentCharacters.kbx13p14": {
+  "PersistentCharacters.PersistentCharacters.PersistentCharacters.kbx13p14": {
     "Id": "kbx13p14",
     "Version": "2.17.0",
     "Name": "Anakin",
     "Path": "Dead",
-    "LastUpdateMs": 1633871069578,
+    "LastUpdateMs": 1636303728516,
     "CurrentHP": 44,
     "StatBlock": {
       "Id": "kbx13p14",
@@ -1465,12 +1517,12 @@
     },
     "Notes": ""
   },
-  "PersistentCharacters.PersistentCharacters.qgteeixa": {
+  "PersistentCharacters.PersistentCharacters.PersistentCharacters.qgteeixa": {
     "Id": "qgteeixa",
     "Version": "2.17.0",
     "Name": "Weaton",
     "Path": "Events/Circus",
-    "LastUpdateMs": 1633871069578,
+    "LastUpdateMs": 1636303728516,
     "CurrentHP": 1,
     "StatBlock": {
       "Id": "qgteeixa",
@@ -1517,12 +1569,12 @@
     },
     "Notes": ""
   },
-  "PersistentCharacters.PersistentCharacters.r1yfm5dq": {
+  "PersistentCharacters.PersistentCharacters.PersistentCharacters.r1yfm5dq": {
     "Id": "r1yfm5dq",
     "Version": "3.0.6",
     "Name": "Natura",
     "Path": "",
-    "LastUpdateMs": 1633871069578,
+    "LastUpdateMs": 1636303728516,
     "CurrentHP": 25,
     "StatBlock": {
       "Id": "r1yfm5dq",
@@ -1602,12 +1654,12 @@
     },
     "Notes": ""
   },
-  "PersistentCharacters.PersistentCharacters.vqir57xr": {
+  "PersistentCharacters.PersistentCharacters.PersistentCharacters.vqir57xr": {
     "Id": "vqir57xr",
     "Version": "2.17.0",
     "Name": "Shem",
     "Path": "Sample Player Characters",
-    "LastUpdateMs": 1633871069578,
+    "LastUpdateMs": 1636303728516,
     "CurrentHP": 11,
     "StatBlock": {
       "Id": "vqir57xr",
@@ -1677,12 +1729,12 @@
     },
     "Notes": ""
   },
-  "PersistentCharacters.c81dnch7": {
+  "PersistentCharacters.PersistentCharacters.c81dnch7": {
     "Id": "c81dnch7",
     "Version": "3.1.2",
     "Name": "Conan",
     "Path": "Events/Mine",
-    "LastUpdateMs": 1636301705071,
+    "LastUpdateMs": 1636303728516,
     "CurrentHP": 11,
     "StatBlock": {
       "Id": "c81dnch7",
@@ -1744,64 +1796,12 @@
     },
     "Notes": ""
   },
-  "PersistentCharacters.kbx13p14": {
-    "Id": "kbx13p14",
-    "Version": "3.1.2",
-    "Name": "",
-    "Path": "",
-    "LastUpdateMs": 1636276798657,
-    "CurrentHP": 1,
-    "StatBlock": {
-      "Id": "vx2fmf2i",
-      "Name": "",
-      "Path": "",
-      "Source": "",
-      "Type": "",
-      "HP": {
-        "Value": 1,
-        "Notes": "(1d1+0)"
-      },
-      "AC": {
-        "Value": 10,
-        "Notes": ""
-      },
-      "InitiativeModifier": 0,
-      "InitiativeAdvantage": false,
-      "Speed": [],
-      "Abilities": {
-        "Str": 10,
-        "Dex": 10,
-        "Con": 10,
-        "Int": 10,
-        "Wis": 10,
-        "Cha": 10
-      },
-      "DamageVulnerabilities": [],
-      "DamageResistances": [],
-      "DamageImmunities": [],
-      "ConditionImmunities": [],
-      "Saves": [],
-      "Skills": [],
-      "Senses": [],
-      "Languages": [],
-      "Challenge": "",
-      "Traits": [],
-      "Actions": [],
-      "Reactions": [],
-      "LegendaryActions": [],
-      "Description": "",
-      "Player": "",
-      "Version": "3.1.2",
-      "ImageURL": ""
-    },
-    "Notes": ""
-  },
-  "PersistentCharacters.qgteeixa": {
+  "PersistentCharacters.PersistentCharacters.qgteeixa": {
     "Id": "qgteeixa",
     "Version": "3.1.2",
     "Name": "Weaton",
     "Path": "Events/Circus",
-    "LastUpdateMs": 1636301254012,
+    "LastUpdateMs": 1636303728516,
     "CurrentHP": 1,
     "StatBlock": {
       "Id": "qgteeixa",
@@ -1848,12 +1848,12 @@
     },
     "Notes": ""
   },
-  "PersistentCharacters.r1yfm5dq": {
+  "PersistentCharacters.PersistentCharacters.r1yfm5dq": {
     "Id": "r1yfm5dq",
     "Version": "3.0.6",
     "Name": "Natura",
     "Path": "",
-    "LastUpdateMs": 1636302997935,
+    "LastUpdateMs": 1636303728516,
     "CurrentHP": 25,
     "StatBlock": {
       "Id": "r1yfm5dq",
@@ -1974,7 +1974,144 @@
     },
     "Notes": "# Spells\n\nArrows [10/100]\n\n| ability | uses |\n| -: | - |\n| Hellish Rebuke | [1/1] |\n| lvl 1 Animal Friendship, Speak with Animals, Hunters mark | [3/3] |"
   },
-  "SavedEncounters.SavedEncounters.Cave": {
+  "PersistentCharacters.c81dnch7": {
+    "Id": "c81dnch7",
+    "Version": "3.1.2",
+    "Name": "",
+    "Path": "",
+    "LastUpdateMs": 1636303729686,
+    "CurrentHP": 1,
+    "StatBlock": {
+      "Id": "38ab66nf",
+      "Name": "",
+      "Path": "",
+      "Source": "",
+      "Type": "",
+      "HP": {
+        "Value": 1,
+        "Notes": "(1d1+0)"
+      },
+      "AC": {
+        "Value": 10,
+        "Notes": ""
+      },
+      "InitiativeModifier": 0,
+      "InitiativeAdvantage": false,
+      "Speed": [],
+      "Abilities": {
+        "Str": 10,
+        "Dex": 10,
+        "Con": 10,
+        "Int": 10,
+        "Wis": 10,
+        "Cha": 10
+      },
+      "DamageVulnerabilities": [],
+      "DamageResistances": [],
+      "DamageImmunities": [],
+      "ConditionImmunities": [],
+      "Saves": [],
+      "Skills": [],
+      "Senses": [],
+      "Languages": [],
+      "Challenge": "",
+      "Traits": [],
+      "Actions": [],
+      "Reactions": [],
+      "LegendaryActions": [],
+      "Description": "",
+      "Player": "",
+      "Version": "3.1.2",
+      "ImageURL": ""
+    },
+    "Notes": ""
+  },
+  "PersistentCharacters.r1yfm5dq": {
+    "Id": "r1yfm5dq",
+    "Version": "3.1.2",
+    "Name": "Natura",
+    "Path": "",
+    "LastUpdateMs": 1636314465075,
+    "CurrentHP": 25,
+    "StatBlock": {
+      "Id": "r1yfm5dq",
+      "Name": "Natura",
+      "Path": "",
+      "Source": "Custom",
+      "Type": "Tiefling Ranger",
+      "HP": {
+        "Value": 25,
+        "Notes": "(2d10+14)"
+      },
+      "AC": {
+        "Value": 13,
+        "Notes": ""
+      },
+      "InitiativeModifier": 2,
+      "InitiativeAdvantage": false,
+      "Speed": [],
+      "Abilities": {
+        "Str": 10,
+        "Dex": 16,
+        "Con": 12,
+        "Int": 9,
+        "Wis": 12,
+        "Cha": 12
+      },
+      "DamageVulnerabilities": [],
+      "DamageResistances": [
+        "Fire"
+      ],
+      "DamageImmunities": [],
+      "ConditionImmunities": [],
+      "Saves": [],
+      "Skills": [],
+      "Senses": [],
+      "Languages": [],
+      "Challenge": "3",
+      "Traits": [],
+      "Actions": [
+        {
+          "Name": "Shortbow",
+          "Content": "+4 (1d6+2)",
+          "Usage": ""
+        },
+        {
+          "Name": "Hunters mark",
+          "Content": "You choose a creature you can see within range and mystically mark it as your quarry. Until the spell ends, you deal an extra 1d6 damage to the target whenever you hit it with a weapon attack, and you have advantage on any Wisdom (Perception) or Wisdom (Survival) check you make to find it. If the target drops to 0 hit points before this spell ends, you can use a bonus action on a subsequent turn of yours to mark a new creature.\n\nAt Higher Levels. When you cast this spell using a spell slot of 3rd or 4th level, you can maintain your concentration on the spell for up to 8 hours. When you use a spell slot of 5th level or higher, you can maintain your concentration on the spell for up to 24 hours.",
+          "Usage": ""
+        },
+        {
+          "Name": "Hellish Rebuke",
+          "Content": "Hellish Rebuke",
+          "Usage": ""
+        },
+        {
+          "Name": "Colossus Slayer",
+          "Content": "Once per turn, when you hit a creature with a weapon attack, the creature takes an extra 1d8 damage if it’s below its HP maximum.",
+          "Usage": ""
+        },
+        {
+          "Name": "Animal Frendship",
+          "Content": "This spell lets you convince a beast that you mean it no harm. Choose a beast that you can see within range. It must see and hear you. If the beast's Intelligence is 4 or higher, the spell fails. Otherwise, the beast must succeed on a Wisdom saving throw or be charmed by you for the spell's duration. If you or one of your companions harms the target, the spell ends.\n\nAt Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, you can affect one additional beast for each slot level above 1st.",
+          "Usage": ""
+        },
+        {
+          "Name": "Speak with Animals",
+          "Content": "You gain the ability to comprehend and verbally communicate with beasts for the duration. The knowledge and awareness of many beasts is limited by their intelligence, but at minimum, beasts can give you information about nearby locations and monsters, including whatever they can perceive or have perceived within the past day. You might be able to persuade a beast to perform a small favor for you, at the GM's discretion.",
+          "Usage": ""
+        }
+      ],
+      "Reactions": [],
+      "LegendaryActions": [],
+      "Description": "",
+      "Player": "player",
+      "Version": "3.1.2",
+      "ImageURL": "https://www.dndbeyond.com/avatars/19746/886/1581111423-56402350.jpeg?width=150&height=150&fit=crop&quality=95&auto=webp"
+    },
+    "Notes": ""
+  },
+  "SavedEncounters.SavedEncounters.SavedEncounters.Cave": {
     "Name": "Cave",
     "Path": "",
     "Id": "Cave",
@@ -2176,9 +2313,9 @@
       }
     ],
     "Version": "2.17.0",
-    "LastUpdateMs": 1633871069578
+    "LastUpdateMs": 1636303728516
   },
-  "SavedEncounters.SavedEncounters.Forest": {
+  "SavedEncounters.SavedEncounters.SavedEncounters.Forest": {
     "Name": "Forest",
     "Path": "",
     "Id": "Forest",
@@ -2389,9 +2526,9 @@
     ],
     "BackgroundImageUrl": null,
     "Version": "2.17.0",
-    "LastUpdateMs": 1633871069578
+    "LastUpdateMs": 1636303728516
   },
-  "SavedEncounters.SavedEncounters.Guards": {
+  "SavedEncounters.SavedEncounters.SavedEncounters.Guards": {
     "Name": "Guards",
     "Path": "",
     "Id": "Guards",
@@ -2706,6 +2843,6 @@
       }
     ],
     "Version": "3.0.6",
-    "LastUpdateMs": 1633871069578
+    "LastUpdateMs": 1636303728516
   }
 }
