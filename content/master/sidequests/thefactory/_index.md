@@ -14,4 +14,4 @@ draft: false
 
 There is a factory owned by the prince that is trying to create potions that will increase the power of animals and humans to use them for battle.
 
-There is an iridiscent naga
+There is an iridiscent naga that they keep prey. The scientist use their blood to imbue power into animals for testing purposes with the objective of creating super humans
